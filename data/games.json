@@ -1,16 +1,1 @@
-[
-    {
-      "id": "space-dodger",
-      "title": "Space Dodger",
-      "description": "Avoid incoming asteroids!",
-      "thumbnail": "games/space-dodger/thumb.png",
-      "difficulty": "Easy"
-    },
-    {
-      "id": "pong-gpt",
-      "title": "Pong GPT",
-      "description": "Classic pong with AI twist.",
-      "thumbnail": "games/pong-gpt/thumb.png",
-      "difficulty": "Medium"
-    }
-  ]
+[ { "id": "space-dodger", "title": "Space Dodger", "description": "Avoid incoming asteroids!", "thumbnail": "games/space-dodger/thumb.png", "difficulty": "Easy" } ]
