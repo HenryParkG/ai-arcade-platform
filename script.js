@@ -13,7 +13,7 @@ fetch('data/games.json') .then(response => response.json()) .then(games => { con
     
     
       card.addEventListener('click', () => {
-        window.location.href = `games/${game.id}/index.html`;
+        window.location.href = 'games/${game.id}/index.html';
       });
     
     
