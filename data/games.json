@@ -1,1 +1,10 @@
-[ { "id": "space-dodger", "title": "Space Dodger", "description": "Avoid incoming asteroids!", "thumbnail": "games/space-dodger/thumb.png", "difficulty": "Easy" } ]
+[ 
+    { "id": "space-dodger", "title": "Space Dodger", "description": "Avoid incoming asteroids!", "thumbnail": "games/space-dodger/thumb.png", "difficulty": "Easy" }, 
+{
+    "id": "falling-blocks",
+    "title": "Falling Blocks",
+    "description": "Catch the blocks before they hit the ground!",
+    "thumbnail": "games/falling-blocks/thumb.png",
+    "difficulty": "Medium"
+  }
+]
