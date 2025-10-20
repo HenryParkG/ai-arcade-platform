@@ -17,14 +17,14 @@
     "id": "jumping-hero",
     "title": "Jumping Hero",
     "description": "Jump over obstacles to survive!",
-    "thumbnail": "https://via.placeholder.com/200x120.png?text=Jumping+Hero",
+    "thumbnail": "games/falling-blocks/thumb.png",
     "difficulty": "Medium"
   },
   {
     "id": "memory-match",
     "title": "Memory Match",
     "description": "Flip and match pairs to test your memory!",
-    "thumbnail": "https://via.placeholder.com/200x120.png?text=Memory+Match",
+    "thumbnail": "games/falling-blocks/thumb.png",
     "difficulty": "Easy"
   }
   
