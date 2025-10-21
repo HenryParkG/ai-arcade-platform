@@ -1,31 +1,31 @@
 [ 
     { 
-        "id": "space-dodger", 
-        "title": "Space Dodger", 
-        "description": "Avoid incoming asteroids!", 
-        "thumbnail": "games/space-dodger/thumb.png", 
-        "difficulty": "Easy" 
+    "id": "space-dodger", 
+    "title": "Space Dodger", 
+    "description": "Avoid incoming asteroids!", 
+    "thumbnail": "games/space-dodger/thumb.png", 
+    "difficulty": "Easy" 
     }, 
-{
+    {
     "id": "falling-blocks",
     "title": "Falling Blocks",
     "description": "Catch the blocks before they hit the ground!",
     "thumbnail": "games/falling-blocks/thumb.png",
     "difficulty": "Medium"
-  },
-  {
+    },
+    {
     "id": "jumping-hero",
     "title": "Jumping Hero",
     "description": "Jump over obstacles to survive!",
     "thumbnail": "games/jumping-hero/thumb.png",
     "difficulty": "Medium"
-  },
-  {
+    },
+    {
     "id": "memory-match",
     "title": "Memory Match",
     "description": "Flip and match pairs to test your memory!",
     "thumbnail": "games/memory-match/thumb.png",
     "difficulty": "Easy"
-  }
+     }
   
 ]
