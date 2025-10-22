@@ -35,21 +35,21 @@
         "path": "games/click-rush/index.html"
       },
       {
-        "id": "Maze Runner",
+        "id": "maze-unner",
         "title": "Maze Runner",
         "description": "방향키로 미로를 탈출하세요! 벽에 닿지 않게 조심!",
         "thumbnail": "games/maze-runner/thumbnail.png",
         "path": "games/maze-runner/index.html"
       },
       {
-        "id":  "Bomb Diffuse",
+        "id":  "bomb-diffuse",
         "title": "Bomb Diffuse",
         "description": "제한시간 내 올바른 전선을 찾아 폭탄을 해체하세요!",
         "thumbnail": "games/bomb-diffuse/thumbnail.png",
         "path": "games/bomb-diffuse/index.html"
       },
       {
-        "id": "Sky Glider",
+        "id": "sky-glider",
         "title": "Sky Glider",
         "description": "스페이스바로 상승하며 장애물을 피해 하늘을 날아보세요!",
         "thumbnail": "games/sky-glider/thumbnail.png",
