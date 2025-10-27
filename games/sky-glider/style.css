@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: linear-gradient(#87ceeb, #fff);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  canvas {
+    background: #b3e0ff;
+    border: 2px solid #333;
+  }
+  #score {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  
